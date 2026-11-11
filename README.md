@@ -7,7 +7,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F3,25:F4C2D0,55:E8A0B5,80:DDE8CF,100:A8B88A&height=270&section=header&text=Adeliaswa&fontSize=78&fontColor=754B5A&fontAlignY=38&desc=Building%20ideas%20into%20working%20software&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F3,25:F4C2D0,55:E8A0B5,80:DDE8CF,100:A8B88A&height=270&section=header&text=Adelia%20Swastika&fontSize=60&fontColor=754B5A&fontAlignY=38&desc=Building%20ideas%20into%20working%20software&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=D58FA4&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Backend+Development+Enthusiast;Laravel+%7C+PHP+%7C+PostgreSQL;Learning%2C+Building%2C+Growing." alt="Typing SVG" />
 
@@ -27,7 +30,7 @@
 
 ## 🌷 About Me
 
-Hi! I'm **Adelia**, an Information Technology student at **Universitas Brawijaya**, Indonesia.
+Hi! I'm **Adelia Swastika**, an Information Technology student at **Universitas Brawijaya**, Indonesia.
 
 I'm passionate about software development, especially backend engineering, database management, and building web-based applications.
 
