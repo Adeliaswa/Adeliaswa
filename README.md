@@ -182,11 +182,16 @@ I'm always open to learning, sharing ideas, and collaborating on interesting pro
 <div align="center">
 
 <a href="https://github.com/Adeliaswa">
-  <img src="https://img.shields.io/badge/GitHub-Adeliaswa-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/adeliaswastika/">
-  <img src="https://img.shields.io/badge/LinkedIn-Adelia%20Swastika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/d_do0lphin?dlrf=N251dWQzeWxqdDBl">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+<a href="https://discord.com/users/1279266535357026357">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -196,7 +201,6 @@ I'm always open to learning, sharing ideas, and collaborating on interesting pro
 *Keep learning, keep building, and keep growing.*
 
 <br/>
-
 
 <div align="center">
   <img src="./cat-hamster-footer.gif" width="180" alt="Cute cat and hamster" />
