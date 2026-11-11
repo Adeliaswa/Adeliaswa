@@ -128,30 +128,24 @@ A web application developed to support mosque donation management, including don
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img
-  src="https://github-stats-extended.vercel.app/api?username=Adeliaswa&custom_title=Adelia%27s%20GitHub%20Stats&show_icons=true&hide_rank=true&hide_border=true&card_width=400&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&icon_color=A8B88A"
-  width="400"
-  alt="GitHub Stats"
-/>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=Adeliaswa&custom_title=GitHub%20Stats&show_icons=true&hide_rank=true&hide_border=true&card_width=320&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&icon_color=A8B88A" width="320" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adeliaswa&layout=compact&hide_border=true&card_width=320&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&langs_count=5" width="320" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adeliaswa&layout=compact&hide_border=true&card_width=400&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&langs_count=6"
-  width="400"
-  alt="Top Languages"
-/>
+<br/>
 
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Adeliaswa&hide_border=true&background=FFF7F2&ring=A8B88A&fire=DFA0B1&currStreakLabel=A8B88A&sideNums=626B58&sideLabels=B9788C&dates=929783&stroke=EAD8D9"
-  width="650"
-  alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=Adeliaswa&hide_border=true&background=FFF7F2&ring=A8B88A&fire=DFA0B1&currStreakLabel=A8B88A&sideNums=626B58&sideLabels=B9788C&dates=929783&stroke=EAD8D9" width="560" alt="GitHub Streak" />
 
 </div>
 
