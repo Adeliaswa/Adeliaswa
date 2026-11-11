@@ -172,7 +172,11 @@ I'm always open to learning, sharing ideas, and collaborating on interesting pro
 <div align="center">
 
 <a href="https://github.com/Adeliaswa">
-<img src="https://img.shields.io/badge/GitHub-Adeliaswa-A8B88A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Adeliaswa-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/adeliaswastika/">
+  <img src="https://img.shields.io/badge/LinkedIn-Adelia%20Swastika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
