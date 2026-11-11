@@ -188,11 +188,21 @@ I'm always open to learning, sharing ideas, and collaborating on interesting pro
 
 <br/><br/>
 
-**Thanks for visiting my profile!** 🌷
+**Thanks for visiting my little corner! ♡** 🌷
 
 *Keep learning, keep building, and keep growing.*
 
 <br/>
+
+
+<div align="center">
+
+<img src="./cat-hamster.gif" width="200" alt="Cute animated cat and hamster" />
+
+<br/>
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F2,45:DDE8CF,100:A8B88A&height=120&section=footer" width="100%" />
 
