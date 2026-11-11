@@ -196,12 +196,9 @@ I'm always open to learning, sharing ideas, and collaborating on interesting pro
 
 
 <div align="center">
-
-<img src="./cat-hamster.gif" width="200" alt="Cute animated cat and hamster" />
-
-<br/>
-
+  <img src="./cat-hamster-footer.gif" width="180" alt="Cute cat and hamster" />
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F3,25:F4C2D0,55:E8A0B5,80:DDE8CF,100:A8B88A&height=140&section=footer&animation=twinkling" width="100%" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F2,45:DDE8CF,100:A8B88A&height=120&section=footer" width="100%" />
