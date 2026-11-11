@@ -1,28 +1,30 @@
 <!--
   GITHUB PROFILE README
   GitHub: @Adeliaswa
+  Theme: Matcha Strawberry Pastel
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=gradient&text=ADELIASWA&fontSize=65&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Building%20ideas%20into%20working%20software&descAlignY=65&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F2,45:DDE8CF,100:A8B88A&height=250&section=header&text=Adeliaswa&fontSize=75&fontColor=626B58&fontAlignY=38&desc=Building%20ideas%20into%20working%20software&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Backend+Development+Enthusiast;Laravel+%7C+PHP+%7C+PostgreSQL;Learning%2C+Building%2C+Improving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=D58FA4&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Backend+Development+Enthusiast;Laravel+%7C+PHP+%7C+PostgreSQL;Learning%2C+Building%2C+Growing." alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Adeliaswa">
-  <img src="https://komarev.com/ghpvc/?username=Adeliaswa&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Adeliaswa&style=for-the-badge&color=A8B88A&label=PROFILE+VIEWS" />
 </a>
+
 <a href="https://github.com/Adeliaswa?tab=followers">
-  <img src="https://img.shields.io/github/followers/Adeliaswa?style=for-the-badge&color=blue&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/Adeliaswa?style=for-the-badge&color=DFA0B1&label=FOLLOWERS" />
 </a>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## 🌷 About Me
 
 Hi! I'm **Adelia**, an Information Technology student at **Universitas Brawijaya**, Indonesia.
 
@@ -34,14 +36,14 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 - 💻 Interested in Backend Development & Software Engineering
 - 🌱 Currently exploring Laravel, database architecture, and clean code practices
 - 🔭 Building web applications with PHP, Laravel, and PostgreSQL
-- 🧩 Enjoy working with APIs, authentication, database design, and application logic
+- 🧩 Interested in APIs, authentication, database design, and application logic
 - 📚 Always learning and improving my development skills
 
 > "Great software is built one thoughtful line of code at a time."
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🍵 Tech Stack & Tools
 
 ### Programming Languages
 
@@ -52,13 +54,19 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 ### Frameworks & Libraries
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=laravel,tailwind,vite" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Laravel%20Breeze-DFA0B1?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Spatie%20Permission-A8B88A?style=flat-square&logoColor=white" />
 </p>
 
 ### Database & Backend Services
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+<img src="https://img.shields.io/badge/MariaDB-626B58?style=flat-square&logo=mariadb&logoColor=white" />
 </p>
 
 ### Development Tools
@@ -67,20 +75,17 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
-### Other Technologies
+### IoT & Other Technologies
 
 <p align="left">
-<img src="https://img.shields.io/badge/Laravel%20Breeze-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Spatie%20Permission-4B5563?style=flat-square" />
-<img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" />
-<img src="https://img.shields.io/badge/EMQX-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-<img src="https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Node--RED-DFA0B1?style=flat-square&logo=nodered&logoColor=white" />
+<img src="https://img.shields.io/badge/EMQX-A8B88A?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-626B58?style=flat-square&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🍓 Featured Projects
 
 ### 01. PetCareOps 🐾
 
@@ -95,7 +100,7 @@ A web-based application designed to manage pet grooming operations, appointments
 - Grooming services and appointment workflows
 - Backend business logic and scheduling
 
-`Laravel 12` `PHP` `PostgreSQL` `Supabase` `Spatie Permission` `Tailwind CSS`
+`Laravel 12` `PHP` `PostgreSQL` `Supabase` `Spatie Permission`
 
 🔗 [View Repository](https://github.com/Adeliaswa/petcareops)
 
@@ -124,13 +129,13 @@ A web application developed to support mosque donation management, including don
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adeliaswa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adeliaswa&show_icons=true&hide_border=true&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&icon_color=A8B88A&ring_color=DFA0B1&cache_seconds=86400" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeliaswa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeliaswa&layout=compact&hide_border=true&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Adeliaswa&theme=tokyonight&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Adeliaswa&hide_border=true&background=FFF7F2&ring=A8B88A&fire=DFA0B1&currStreakLabel=A8B88A&sideNums=626B58&sideLabels=B9788C&dates=929783&stroke=EAD8D9" />
 
 </div>
 
@@ -140,7 +145,7 @@ A web application developed to support mosque donation management, including don
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Adeliaswa/Adeliaswa/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Adeliaswa/Adeliaswa/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 
 </div>
 
@@ -157,20 +162,24 @@ A web application developed to support mosque donation management, including don
 
 ---
 
-## 🤝 Let's Connect!
+## 💗 Let's Connect!
 
 I'm always open to learning, sharing ideas, and collaborating on interesting projects.
 
 <div align="center">
 
 <a href="https://github.com/Adeliaswa">
-<img src="https://img.shields.io/badge/GitHub-Adeliaswa-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Adeliaswa-A8B88A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile!** 💙
+**Thanks for visiting my profile!** 🌷
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+*Keep learning, keep building, and keep growing.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F2,45:DDE8CF,100:A8B88A&height=120&section=footer" width="100%" />
 
 </div>
