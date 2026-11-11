@@ -132,9 +132,9 @@ A web application developed to support mosque donation management, including don
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adeliaswa&show_icons=true&hide_border=true&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&icon_color=A8B88A&ring_color=DFA0B1&cache_seconds=86400" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Adeliaswa&show_icons=true&hide_border=true&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&icon_color=A8B88A&ring_color=DFA0B1&cache_seconds=86400" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeliaswa&layout=compact&hide_border=true&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&langs_count=8&cache_seconds=86400" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adeliaswa&layout=compact&hide_border=true&bg_color=FFF7F2&title_color=B9788C&text_color=626B58&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
