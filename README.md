@@ -4,20 +4,21 @@
   Theme: Matcha Strawberry Pastel
 -->
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F2,45:DDE8CF,100:A8B88A&height=250&section=header&text=Adeliaswa&fontSize=75&fontColor=626B58&fontAlignY=38&desc=Building%20ideas%20into%20working%20software&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F3,25:F4C2D0,55:E8A0B5,80:DDE8CF,100:A8B88A&height=270&section=header&text=Adeliaswa&fontSize=78&fontColor=754B5A&fontAlignY=38&desc=Building%20ideas%20into%20working%20software&descSize=18&descAlignY=58&animation=twinkling" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=D58FA4&center=true&vCenter=true&width=650&lines=Information+Technology+Student;Backend+Development+Enthusiast;Laravel+%7C+PHP+%7C+PostgreSQL;Learning%2C+Building%2C+Growing." alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Adeliaswa">
-<img src="https://komarev.com/ghpvc/?username=Adeliaswa&style=for-the-badge&color=A8B88A&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Adeliaswa&style=for-the-badge&color=E8A0B5&label=PROFILE+VIEWS" />
 </a>
 
 <a href="https://github.com/Adeliaswa?tab=followers">
-<img src="https://img.shields.io/github/followers/Adeliaswa?style=for-the-badge&color=DFA0B1&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/Adeliaswa?style=for-the-badge&color=D58FA4&label=FOLLOWERS" />
 </a>
 
 </div>
@@ -43,44 +44,46 @@ I enjoy turning ideas into functional applications, exploring new technologies, 
 
 ---
 
+<!-- TECH STACK & TOOLS -->
+
 ## 🍵 Tech Stack & Tools
 
 ### Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,java,js,html,css" />
 </p>
 
 ### Frameworks & Libraries
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,vite" />
 </p>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Laravel%20Breeze-DFA0B1?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Spatie%20Permission-A8B88A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel%20Breeze-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spatie%20Permission-4B5563?style=flat-square&logoColor=white" />
 </p>
 
 ### Database & Backend Services
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
-<img src="https://img.shields.io/badge/MariaDB-626B58?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
 </p>
 
 ### Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
 ### IoT & Other Technologies
 
 <p align="left">
-<img src="https://img.shields.io/badge/Node--RED-DFA0B1?style=flat-square&logo=nodered&logoColor=white" />
-<img src="https://img.shields.io/badge/EMQX-A8B88A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/MQTT-626B58?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMQX-7C3AED?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logoColor=white" />
 </p>
 
 ---
